@@ -38,3 +38,5 @@ console.log("userName", userName);
 //root.insertAdjacentHTML("afterbegin", "<div class='userBox' id='user'>" + userName + "</div>");
 
 document.getElementById("root").insertAdjacentHTML("afterbegin", "<div class='userBox' id='user'>" + userName + "</div>");
+
+console.log(Array(16).join( 'hero'-1) + " Batman")
