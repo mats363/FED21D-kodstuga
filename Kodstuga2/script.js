@@ -1,4 +1,3 @@
-
 // IF-satser:
 let firstname = "Victor";
 
